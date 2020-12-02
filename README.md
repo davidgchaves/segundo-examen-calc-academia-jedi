@@ -16,9 +16,14 @@ Puede utilizarse la **letra, efectos y colores que se desee**. No hace falta que
 
 La academia de artes Jedi del maestro Yoda pretende realizar un estudio para analizar los desperfectos causados en las espadas láser. Los datos del año pasado arrojan un balance negativo y Yoda va a crear un manual interactivo de uso de la espada láser para evitar que los alumnos aprendices estropeen sus espadas.
 
-## 0 Crear nueva hoja
+## 0.1 Descarga images
 
-- Descarga la imagen del maestro Yoda [aquí](http://www.tuinstitutoonline.com/cursos/calcmedio1_v1506/material_alumno/img/ex02yoda.jpg).
+Descarga la imagen del maestro Yoda.
+
+![aquí](./img/yoda.jpg)
+
+## 0.2 Crear nueva hoja
+
 - Crea una nueva hoja de cálculo y sálvala con el nombre `apellido1_apellido2_nombre_exacademia.ods`.
 - **Efectos y colores son apróximados**.
 - **Negritas y alineamientos son exactos**.
