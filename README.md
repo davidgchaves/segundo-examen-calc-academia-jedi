@@ -44,21 +44,21 @@ La academia de artes Jedi del maestro Yoda pretende realizar un estudio para ana
 
 - Calcula la columna del porcentaje de simples. `% Simples = Simples / Total`
 - Rellena el resto de la columna utilizando la **función autocompletar**.
-- Pon formato Porcentaje con 2 decimales.
+- Pon formato **Porcentaje con 2 decimales**.
 
 ### % Dobles
 
 - Calcula la columna del porcentaje de dobles. `% Dobles = Dobles / Total`
-- Rellena el resto de la columna utilizando la función **autocompletar**.
-- Pon formato Porcentaje con 2 decimales.
+- Rellena el resto de la columna utilizando la **función autocompletar**.
+- Pon formato **Porcentaje con 2 decimales**.
 
 ## 3 Totales (1 punto)
 
-- Calcula los totales para las columnas de `simples`, `dobles` y `total`. Utiliza la **función Autosuma**.
+- Calcula los totales para las columnas de `simples`, `dobles` y `total`. Utiliza la **función autosuma**.
 - Calcula los porcentajes totales para las columnas de `% simples` y `% dobles`.
   - `% Simples = Total simples / Total`
   - `% Dobles = Total dobles / Total`
-  - Pon formato Porcentaje con 2 decimales en ambas columnas.
+  - Pon formato **Porcentaje con 2 decimales** en **ambas columnas**.
 
 ## 4 Duplica la hoja (1 punto)
 
