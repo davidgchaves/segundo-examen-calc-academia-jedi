@@ -16,7 +16,7 @@ Puede utilizarse la **letra, efectos y colores que se desee**. No hace falta que
 
 La academia de artes Jedi del maestro Yoda pretende realizar un estudio para analizar los desperfectos causados en las espadas láser. Los datos del año pasado arrojan un balance negativo y Yoda va a crear un manual interactivo de uso de la espada láser para evitar que los alumnos aprendices estropeen sus espadas.
 
-## 0.1 Descarga images
+## 0.1 Descarga imagen
 
 Descarga la imagen del maestro Yoda.
 
