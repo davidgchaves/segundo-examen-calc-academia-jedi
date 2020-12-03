@@ -59,10 +59,10 @@ Descarga la imagen del maestro Yoda.
 
 ## 3 Totales (1 punto)
 
-- Calcula los totales para las columnas de `simples`, `dobles` y `total`. Utiliza la **función autosuma**.
+- Calcula los totales para las columnas de `simples (B21)`, `dobles (C21)` y `total (D21)`. Utiliza la **función autosuma**.
 - Calcula los porcentajes totales para las columnas de `% simples` y `% dobles`.
-  - `% Simples = Total simples / Total`
-  - `% Dobles = Total dobles / Total`
+  - `Total % Simples (E21) = Total simples / Total total`
+  - `Total % Dobles (F21) = Total dobles / Total total`
   - Pon formato **Porcentaje con 2 decimales** en **ambas columnas**.
 
 ## 4 Duplica la hoja (1 punto)
